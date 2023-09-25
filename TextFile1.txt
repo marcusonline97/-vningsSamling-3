@@ -1,0 +1,10 @@
+﻿Uppgift 3:
+
+Fråga 1: 
+Svar på Första frågan i fråga ett: När du instansierar en Person i Program.cs, så kommer vi inte åt de privata fälten eftersom de är privata.
+Istället ifall vi hade använt oss utav publika properties istället hade det funkat för att hämta och sätta värdena, vi kan troligen också använda oss utav publika metoder för att kunna komma åt variablarna.
+
+
+Fråga 5: Det som jag uppfattar är att med Person utkommenterad så förstår inte resten av koden var person är eller vad den ska göra med person eftersom den inte kan referera till klassen.
+Utan våra publika instansieringar i Person klassen så har inte CreatePerson några värden att hämta ifrån och därför inte kommer lyckas skapa Personer.
+
